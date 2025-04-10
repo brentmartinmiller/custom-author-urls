@@ -71,7 +71,7 @@ If you find this plugin useful, consider [buying me a coffee](https://buymeacoff
 
 ## Credits
 
-Created by [Martin Miller Software Consulting](https://martinmiller.co)
+Created by Brent at [Martin Miller Software Consulting](https://martinmiller.co)
 
 ## License
 
